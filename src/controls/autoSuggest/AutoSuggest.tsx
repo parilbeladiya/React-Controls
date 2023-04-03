@@ -1025,7 +1025,7 @@ const useDebounce = (value: string, delay: number) => {
   return debouncedValue;
 };
 
-const Header = () => <img src={logo} />;
+const Header = () => <img src={logo} alt=""/>;
 
 const Footer = () => (
   <>

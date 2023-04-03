@@ -1,5 +1,5 @@
-import { AntDesignTextbox as Control } from "./controls/antDesignTextbox/AntDesignTextbox";
-// import { AutoSuggest as Control } from "./controls/autoSuggest/AutoSuggest";
+// import { AntDesignTextbox as Control } from "./controls/antDesignTextbox/AntDesignTextbox";
+import { AutoSuggest as Control } from "./controls/autoSuggest/AutoSuggest";
 // import { MaterialDesignTextbox as Control } from "./controls/materialDesignTextbox/MaterialDesignTextbox";
 // import { MinimalTextbox as Control } from "./controls/minimalTextbox/MinimalTextbox";
 // import { MultiSelectDropdown as Control } from "./controls/multiSelectDropdown/MultiSelectDropdown";
